@@ -1,0 +1,12 @@
+﻿@model IEnumerable<string>;
+
+@{
+    ViewBag.title = "Home";
+}
+
+<ul>
+    @foreach (string city in Model)
+    {
+        <li>@city</li>
+    }
+</ul>
