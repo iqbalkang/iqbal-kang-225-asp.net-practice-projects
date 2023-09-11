@@ -5,11 +5,24 @@
       "Services/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ServicesContract": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Services.dll": {}
         },
         "runtime": {
           "bin/placeholder/Services.dll": {}
+        }
+      },
+      "ServicesContract/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ServicesContract.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ServicesContract.dll": {}
         }
       }
     }
@@ -19,11 +32,17 @@
       "type": "project",
       "path": "../Services/Services.csproj",
       "msbuildProject": "../Services/Services.csproj"
+    },
+    "ServicesContract/1.0.0": {
+      "type": "project",
+      "path": "../ServicesContract/ServicesContract.csproj",
+      "msbuildProject": "../ServicesContract/ServicesContract.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Services >= 1.0.0"
+      "Services >= 1.0.0",
+      "ServicesContract >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -53,6 +72,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "C:\\Users\\iqbal\\source\\repos\\asp.net-practice-projects\\DependencyInjection\\ServicesContract\\ServicesContract.csproj": {
+              "projectPath": "C:\\Users\\iqbal\\source\\repos\\asp.net-practice-projects\\DependencyInjection\\ServicesContract\\ServicesContract.csproj"
+            },
             "C:\\Users\\iqbal\\source\\repos\\asp.net-practice-projects\\DependencyInjection\\Services\\Services.csproj": {
               "projectPath": "C:\\Users\\iqbal\\source\\repos\\asp.net-practice-projects\\DependencyInjection\\Services\\Services.csproj"
             }

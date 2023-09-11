@@ -1,6 +1,8 @@
-﻿namespace Services
+﻿using ServicesContract;
+
+namespace Services
 {
-    public class CitiesService
+    public class CitiesService : ICitiesService
     {
         private List<string> _cities;
 
@@ -8,7 +10,7 @@
         {
             _cities = new List<string>()
             {
-                "Paris", "London", "Delhi", "Sacramento", "Auckland"
+                "Paris", "London", "Delhi", "Sacramento", "Auckland", "Tokyo"
             };
         }
 
@@ -16,8 +18,6 @@
         {
             return _cities;
         }
-
-        //public List<string> GetCities { get; }
 
     }
 }

@@ -1,0 +1,11 @@
+C:\Users\iqbal\source\repos\asp.net-practice-projects\DependencyInjection\ServicesContract\bin\Debug\net6.0\ServicesContract.deps.json
+C:\Users\iqbal\source\repos\asp.net-practice-projects\DependencyInjection\ServicesContract\bin\Debug\net6.0\ServicesContract.dll
+C:\Users\iqbal\source\repos\asp.net-practice-projects\DependencyInjection\ServicesContract\bin\Debug\net6.0\ServicesContract.pdb
+C:\Users\iqbal\source\repos\asp.net-practice-projects\DependencyInjection\ServicesContract\obj\Debug\net6.0\ServicesContract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iqbal\source\repos\asp.net-practice-projects\DependencyInjection\ServicesContract\obj\Debug\net6.0\ServicesContract.AssemblyInfoInputs.cache
+C:\Users\iqbal\source\repos\asp.net-practice-projects\DependencyInjection\ServicesContract\obj\Debug\net6.0\ServicesContract.AssemblyInfo.cs
+C:\Users\iqbal\source\repos\asp.net-practice-projects\DependencyInjection\ServicesContract\obj\Debug\net6.0\ServicesContract.csproj.CoreCompileInputs.cache
+C:\Users\iqbal\source\repos\asp.net-practice-projects\DependencyInjection\ServicesContract\obj\Debug\net6.0\ServicesContract.dll
+C:\Users\iqbal\source\repos\asp.net-practice-projects\DependencyInjection\ServicesContract\obj\Debug\net6.0\refint\ServicesContract.dll
+C:\Users\iqbal\source\repos\asp.net-practice-projects\DependencyInjection\ServicesContract\obj\Debug\net6.0\ServicesContract.pdb
+C:\Users\iqbal\source\repos\asp.net-practice-projects\DependencyInjection\ServicesContract\obj\Debug\net6.0\ref\ServicesContract.dll
