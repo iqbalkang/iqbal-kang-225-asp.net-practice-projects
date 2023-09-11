@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\iqbal\\source\\repos\\DependencyInjection\\DependencyInjection\\DependencyInjection.csproj": {}
+    "C:\\Users\\iqbal\\source\\repos\\asp.net-practice-projects\\DependencyInjection\\DependencyInjection\\DependencyInjection.csproj": {}
   },
   "projects": {
-    "C:\\Users\\iqbal\\source\\repos\\DependencyInjection\\DependencyInjection\\DependencyInjection.csproj": {
+    "C:\\Users\\iqbal\\source\\repos\\asp.net-practice-projects\\DependencyInjection\\DependencyInjection\\DependencyInjection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iqbal\\source\\repos\\DependencyInjection\\DependencyInjection\\DependencyInjection.csproj",
+        "projectUniqueName": "C:\\Users\\iqbal\\source\\repos\\asp.net-practice-projects\\DependencyInjection\\DependencyInjection\\DependencyInjection.csproj",
         "projectName": "DependencyInjection",
-        "projectPath": "C:\\Users\\iqbal\\source\\repos\\DependencyInjection\\DependencyInjection\\DependencyInjection.csproj",
+        "projectPath": "C:\\Users\\iqbal\\source\\repos\\asp.net-practice-projects\\DependencyInjection\\DependencyInjection\\DependencyInjection.csproj",
         "packagesPath": "C:\\Users\\iqbal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iqbal\\source\\repos\\DependencyInjection\\DependencyInjection\\obj\\",
+        "outputPath": "C:\\Users\\iqbal\\source\\repos\\asp.net-practice-projects\\DependencyInjection\\DependencyInjection\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\iqbal\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\iqbal\\source\\repos\\DependencyInjection\\Services\\Services.csproj": {
-                "projectPath": "C:\\Users\\iqbal\\source\\repos\\DependencyInjection\\Services\\Services.csproj"
+              "C:\\Users\\iqbal\\source\\repos\\asp.net-practice-projects\\DependencyInjection\\Services\\Services.csproj": {
+                "projectPath": "C:\\Users\\iqbal\\source\\repos\\asp.net-practice-projects\\DependencyInjection\\Services\\Services.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\Users\\iqbal\\source\\repos\\DependencyInjection\\Services\\Services.csproj": {
+    "C:\\Users\\iqbal\\source\\repos\\asp.net-practice-projects\\DependencyInjection\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iqbal\\source\\repos\\DependencyInjection\\Services\\Services.csproj",
+        "projectUniqueName": "C:\\Users\\iqbal\\source\\repos\\asp.net-practice-projects\\DependencyInjection\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "C:\\Users\\iqbal\\source\\repos\\DependencyInjection\\Services\\Services.csproj",
+        "projectPath": "C:\\Users\\iqbal\\source\\repos\\asp.net-practice-projects\\DependencyInjection\\Services\\Services.csproj",
         "packagesPath": "C:\\Users\\iqbal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iqbal\\source\\repos\\DependencyInjection\\Services\\obj\\",
+        "outputPath": "C:\\Users\\iqbal\\source\\repos\\asp.net-practice-projects\\DependencyInjection\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\iqbal\\AppData\\Roaming\\NuGet\\NuGet.Config",
