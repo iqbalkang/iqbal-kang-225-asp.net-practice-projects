@@ -8,15 +8,24 @@
     ".NETCoreApp,Version=v6.0": {
       "DependencyInjection/1.0.0": {
         "dependencies": {
-          "Services": "1.0.0"
+          "Services": "1.0.0",
+          "ServicesContract": "1.0.0"
         },
         "runtime": {
           "DependencyInjection.dll": {}
         }
       },
       "Services/1.0.0": {
+        "dependencies": {
+          "ServicesContract": "1.0.0"
+        },
         "runtime": {
           "Services.dll": {}
+        }
+      },
+      "ServicesContract/1.0.0": {
+        "runtime": {
+          "ServicesContract.dll": {}
         }
       }
     }
@@ -28,6 +37,11 @@
       "sha512": ""
     },
     "Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ServicesContract/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

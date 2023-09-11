@@ -21,3 +21,6 @@ C:/Users/iqbal/source/repos/DependencyInjection/Services/obj/Debug/net6.0/ref/Se
 /Users/iqbal-kang/Projects/asp.net-practice-projects/DependencyInjection/Services/obj/Debug/net6.0/refint/Services.dll
 /Users/iqbal-kang/Projects/asp.net-practice-projects/DependencyInjection/Services/obj/Debug/net6.0/Services.pdb
 /Users/iqbal-kang/Projects/asp.net-practice-projects/DependencyInjection/Services/obj/Debug/net6.0/ref/Services.dll
+/Users/iqbal-kang/Projects/asp.net-practice-projects/DependencyInjection/Services/bin/Debug/net6.0/ServicesContract.dll
+/Users/iqbal-kang/Projects/asp.net-practice-projects/DependencyInjection/Services/bin/Debug/net6.0/ServicesContract.pdb
+/Users/iqbal-kang/Projects/asp.net-practice-projects/DependencyInjection/Services/obj/Debug/net6.0/Services.csproj.CopyComplete

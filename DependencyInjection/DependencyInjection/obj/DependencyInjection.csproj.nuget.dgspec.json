@@ -29,6 +29,9 @@
             "projectReferences": {
               "/Users/iqbal-kang/Projects/asp.net-practice-projects/DependencyInjection/Services/Services.csproj": {
                 "projectPath": "/Users/iqbal-kang/Projects/asp.net-practice-projects/DependencyInjection/Services/Services.csproj"
+              },
+              "/Users/iqbal-kang/Projects/asp.net-practice-projects/DependencyInjection/ServicesContract/ServicesContract.csproj": {
+                "projectPath": "/Users/iqbal-kang/Projects/asp.net-practice-projects/DependencyInjection/ServicesContract/ServicesContract.csproj"
               }
             }
           }
@@ -73,6 +76,63 @@
         "projectPath": "/Users/iqbal-kang/Projects/asp.net-practice-projects/DependencyInjection/Services/Services.csproj",
         "packagesPath": "/Users/iqbal-kang/.nuget/packages/",
         "outputPath": "/Users/iqbal-kang/Projects/asp.net-practice-projects/DependencyInjection/Services/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/iqbal-kang/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/iqbal-kang/Projects/asp.net-practice-projects/DependencyInjection/ServicesContract/ServicesContract.csproj": {
+                "projectPath": "/Users/iqbal-kang/Projects/asp.net-practice-projects/DependencyInjection/ServicesContract/ServicesContract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/iqbal-kang/Projects/asp.net-practice-projects/DependencyInjection/ServicesContract/ServicesContract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/iqbal-kang/Projects/asp.net-practice-projects/DependencyInjection/ServicesContract/ServicesContract.csproj",
+        "projectName": "ServicesContract",
+        "projectPath": "/Users/iqbal-kang/Projects/asp.net-practice-projects/DependencyInjection/ServicesContract/ServicesContract.csproj",
+        "packagesPath": "/Users/iqbal-kang/.nuget/packages/",
+        "outputPath": "/Users/iqbal-kang/Projects/asp.net-practice-projects/DependencyInjection/ServicesContract/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/iqbal-kang/.nuget/NuGet/NuGet.Config"

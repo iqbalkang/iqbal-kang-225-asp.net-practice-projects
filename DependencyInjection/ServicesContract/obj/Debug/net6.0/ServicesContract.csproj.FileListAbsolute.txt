@@ -1,0 +1,12 @@
+/Users/iqbal-kang/Projects/asp.net-practice-projects/DependencyInjection/ServicesContract/bin/Debug/net6.0/ServicesContract.deps.json
+/Users/iqbal-kang/Projects/asp.net-practice-projects/DependencyInjection/ServicesContract/bin/Debug/net6.0/ServicesContract.dll
+/Users/iqbal-kang/Projects/asp.net-practice-projects/DependencyInjection/ServicesContract/bin/Debug/net6.0/ServicesContract.pdb
+/Users/iqbal-kang/Projects/asp.net-practice-projects/DependencyInjection/ServicesContract/obj/Debug/net6.0/ServicesContract.csproj.AssemblyReference.cache
+/Users/iqbal-kang/Projects/asp.net-practice-projects/DependencyInjection/ServicesContract/obj/Debug/net6.0/ServicesContract.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iqbal-kang/Projects/asp.net-practice-projects/DependencyInjection/ServicesContract/obj/Debug/net6.0/ServicesContract.AssemblyInfoInputs.cache
+/Users/iqbal-kang/Projects/asp.net-practice-projects/DependencyInjection/ServicesContract/obj/Debug/net6.0/ServicesContract.AssemblyInfo.cs
+/Users/iqbal-kang/Projects/asp.net-practice-projects/DependencyInjection/ServicesContract/obj/Debug/net6.0/ServicesContract.csproj.CoreCompileInputs.cache
+/Users/iqbal-kang/Projects/asp.net-practice-projects/DependencyInjection/ServicesContract/obj/Debug/net6.0/ServicesContract.dll
+/Users/iqbal-kang/Projects/asp.net-practice-projects/DependencyInjection/ServicesContract/obj/Debug/net6.0/refint/ServicesContract.dll
+/Users/iqbal-kang/Projects/asp.net-practice-projects/DependencyInjection/ServicesContract/obj/Debug/net6.0/ServicesContract.pdb
+/Users/iqbal-kang/Projects/asp.net-practice-projects/DependencyInjection/ServicesContract/obj/Debug/net6.0/ref/ServicesContract.dll

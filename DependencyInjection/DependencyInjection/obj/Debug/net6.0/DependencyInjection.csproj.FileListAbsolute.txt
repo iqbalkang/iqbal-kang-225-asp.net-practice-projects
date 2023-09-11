@@ -60,3 +60,5 @@ C:/Users/iqbal/source/repos/DependencyInjection/DependencyInjection/obj/Debug/ne
 /Users/iqbal-kang/Projects/asp.net-practice-projects/DependencyInjection/DependencyInjection/obj/Debug/net6.0/DependencyInjection.pdb
 /Users/iqbal-kang/Projects/asp.net-practice-projects/DependencyInjection/DependencyInjection/obj/Debug/net6.0/DependencyInjection.genruntimeconfig.cache
 /Users/iqbal-kang/Projects/asp.net-practice-projects/DependencyInjection/DependencyInjection/obj/Debug/net6.0/ref/DependencyInjection.dll
+/Users/iqbal-kang/Projects/asp.net-practice-projects/DependencyInjection/DependencyInjection/bin/Debug/net6.0/ServicesContract.dll
+/Users/iqbal-kang/Projects/asp.net-practice-projects/DependencyInjection/DependencyInjection/bin/Debug/net6.0/ServicesContract.pdb
