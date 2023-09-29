@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CityDigger.WebApi.props" />
+</Project>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ieQBFcAAYctWK7mZErNcwx4onXRc/nVvu2Sh39E8tSo=",
+  "Source": "CityDigger.WebApi",
+  "BasePath": "_content/CityDigger.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
